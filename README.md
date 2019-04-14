@@ -1,4 +1,4 @@
-# Algorithmic Paradigms
+# Algorithmic Paradigms [1]
 
 ## Divide and Conquer
 Idea: Divide a problem into two or more sub-problems, solve these recursively, and then put solutions together to a solution of the given problem.
@@ -21,3 +21,7 @@ Example: Floyd-Warshall algorithm for the all pairs shortest path problem
 
 Idea: Find solution by always making the choice that looks optimal at the moment — don’t look ahead, never go back.
 Examples: Prim’s algorithm and Kruskal’s algorithm for a minimum spanning tree. Shortest path
+
+
+Reference:
+1. https://courses.cs.washington.edu/courses/cse373/16wi/slides/22-Algorithm-Design.pdf

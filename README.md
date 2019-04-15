@@ -1,3 +1,12 @@
+1.先确认前条件/不变式/终止条件/边界条件，然后写出正确的代码
+
+# 面试考试
+1. 考察面试者的编码能力
+# 题型
+string、binary search，linked list，divide conquer，array，breadth first search，depth first search
+
+
+
 # Algorithmic Paradigms [1]
 
 ## Divide and Conquer
@@ -21,6 +30,14 @@ Example: Floyd-Warshall algorithm for the all pairs shortest path problem
 
 Idea: Find solution by always making the choice that looks optimal at the moment — don’t look ahead, never go back.
 Examples: Prim’s algorithm and Kruskal’s algorithm for a minimum spanning tree. Shortest path
+
+
+# 链表专题
+目的：考察思维全面性和写无BUG代码的能力
+1. 多指针协同工作（前指针和后指针，快指针和慢指针）
+2. 头节点有可能改变的需引入dummy节点
+3. 尽量 in space     尽量避免O(n2)
+4. 写code时，注意null节点
 
 
 Reference:

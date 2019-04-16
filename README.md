@@ -34,10 +34,12 @@ Examples: Prim’s algorithm and Kruskal’s algorithm for a minimum spanning tr
 
 # 链表专题
 目的：考察思维全面性和写无BUG代码的能力
-1. 多指针协同工作（前指针和后指针，快指针和慢指针）
-2. 头节点有可能改变的需引入dummy节点
-3. 尽量 in space     尽量避免O(n2)
-4. 写code时，注意null节点
+1. 头节点有可能改变的需引入dummy节点
+2. 多指针协同工作（前指针和后指针，快指针和慢指针）
+3. 尽量in space尽量避免O(n2)
+4. 写code时，注意None节点
+
+
 
 
 Reference:
